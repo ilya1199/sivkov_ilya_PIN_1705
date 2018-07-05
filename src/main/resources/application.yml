@@ -1,0 +1,10 @@
+application.viber-bot:
+ auth-token: "481ab3c92427d7cc-804fd95819b307fc-58797d0e5efa5fc5"
+ webhook-url: "https://ilya11-99.herokuapp.com"
+ name: "sivilya "
+ avatar: "https://pp.userapi.com/c824601/v824601916/17f557/JrPZlLoEhHg.jpg"
+
+logging:
+  level:
+    root: DEBUG
+
